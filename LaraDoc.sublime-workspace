@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"Show"
+			],
+			[
+				"sh",
+				"shape1"
+			],
+			[
+				"con",
+				"contactHandler"
+			],
+			[
+				"co",
+				"collision"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"Cu",
+				"Customer"
+			],
+			[
+				"Custr",
+				"CustomerController"
+			],
+			[
+				"O",
+				"Ord"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"W",
+				"where"
+			],
+			[
+				"Or",
+				"Order"
+			],
+			[
+				"o",
+				"order"
+			],
+			[
+				"ord",
+				"orders"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/LaraVel/LaraBara/.env",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 453,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"php artisan serve"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/LaraVel/LaraDoctrine"
+	],
+	"file_history":
+	[
+		"/E/LaraVel/LaraBara/resources/views/Layout.blade.php",
+		"/E/temp/app.blade.php",
+		"/E/temp/GeolocationController.php",
+		"/E/temp/routes.php",
+		"/E/LaraVel/LaraBara/resources/views/layouts/app.blade.php",
+		"/E/LaraVel/LaraBara/resources/views/welcome.blade.php",
+		"/E/LaraVel/LaraBara/resources/views/layouts/master.blade.php",
+		"/E/LaraVel/LaraBara/resources/views/sftp-config.json",
+		"/E/proj/kCalc/priprema/bin/Debug/sa2.js",
+		"/E/Sublime Text Build 3114 x64/Data/Packages/User/sftp_servers/hostinger_develop",
+		"/E/Sublime Text Build 3114 x64/Data/Packages/User/sftp_servers/hostinger_develop.xml",
+		"/E/LaraVel/LaraBara/.env",
+		"/C/users/kresimir/appdata/local/temp/sublime-sftp-browse-1475228694/hostinger_develop.xml/kBookMark/.env",
+		"/E/LaraVel/LaraBara/app/Http/routes.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/UploadFileController.php",
+		"/E/LaraVel/LaraBara/resources/views/upload.blade.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/ApplyController.php",
+		"/E/LaraVel/LaraBara/config/app.php",
+		"/E/LaraVel/LaraBara/app/User.php",
+		"/E/LaraVel/LaraBara/resources/views/uploadfile.php",
+		"/E/LaraVel/LaraBara/resources/views/upload.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/MailController.php",
+		"/E/GameK/sample.html",
+		"/E/LaraVel/pok.php",
+		"/E/LaraVel/web.config",
+		"/E/composer.json",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/StudViewController.php",
+		"/E/LaraVel/useradmin/app/Http/Controllers/Controller.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/CookieController.php",
+		"/E/LaraVel/LaraBara/app/Providers/AppServiceProvider.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/CustomerController.php",
+		"/E/LaraVel/LaraBara/app/Http/Middleware/FistMiddleware.php",
+		"/E/LaraVel/LaraBara/app/Http/Middleware/SecondMiddleware.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/UserController.php",
+		"/E/LaraVel/LaraBara/app/Http/Kernel.php",
+		"/E/GameK/car1.html",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/ABCController.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/TestController.php",
+		"/E/LaraVel/LaraBara/app/Http/Middleware/TerminateMiddleware.php",
+		"/E/LaraVel/LaraBara/app/Customer.php",
+		"/E/GameK/car2.html",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/CustromerController.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/Controller.php",
+		"/E/LaraVel/LaraBara/app/Order.php",
+		"/E/LaraVel/LaraBara/app/Address.php",
+		"/E/LaraVel/LaraBara/app/Http/Controllers/CustomerControllerO.php",
+		"/E/LaraVel/LaraBara/app/database/migrations/2016_07_31_023430_create_users_table.php",
+		"/E/LaraVel/LaraBara/app/routes.php",
+		"/E/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/test.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Virat Gandhi",
+			"});"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"kresimir ivkovic"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/LaraVel/LaraBara/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.composer":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "LaraDoc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
