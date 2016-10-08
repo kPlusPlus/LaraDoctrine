@@ -1,0 +1,2 @@
+php composer.phar require doctrine/doctrine-orm-module *
+composer require doctrine/doctrine-orm-module *

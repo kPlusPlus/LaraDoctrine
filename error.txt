@@ -1,0 +1,2 @@
+
+Catchable fatal error: Argument 1 passed to Doctrine\ORM\Tools\Console\ConsoleRunner::run() must be an instance of Symfony\Component\Console\Helper\HelperSet, integer given, called in E:\LaraVel\LaraDoctrine\vendor\doctrine\orm\bin\doctrine.php on line 66 and defined in E:\LaraVel\LaraDoctrine\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Console\ConsoleRunner.php on line 57

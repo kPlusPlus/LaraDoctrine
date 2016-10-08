@@ -1,6 +1,6 @@
 <?php
 
-namespace TodoList\Exceptions;
+namespace App\Exceptions;
 
 use Exception;
 use Illuminate\Validation\ValidationException;
